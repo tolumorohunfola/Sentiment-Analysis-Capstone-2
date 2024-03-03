@@ -12,11 +12,15 @@ as input and predicts its sentiment.
 predicting sentiment.
 
 # Installation: 
-tells other users how to install your project locally.
+1. Go to https://github.com/tolumorohunfola/finalCapstone.
+2. Click the green drop-down saying 'Code'.
+3. Copy the url given from one of the options: HTTPS, SSH or GitHub CLI.
+4. On your command line, navigate to the folder you would like to store the code in.
+5. Paste the url given from one of the otpions: HTTPS, SSH or GitHub CLI.
+6. Now you're ready to go!
 
 # Usage: 
-instructs others on how to use your project after they've installed it. 
-include screenshots of your project in action.
+1. On your preferred text editor, open the sentiment_analysis.py file and run it in the terminal.
 
 # Credits:
 Toluwani Morohunfola
