@@ -1,6 +1,5 @@
 # Project Name - Sentiment Analysis
 
-Contents.
 
 # Description:
 **A program to complete sentiment analysis on amazon product reviews from kaggle.**
